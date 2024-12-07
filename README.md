@@ -2,7 +2,7 @@
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
-**My notion link =>** https://www.notion.so/154b853ac11a809e83b5dbe11df758cf?pvs=4
+**My notion link =>** [https://www.notion.so/154b853ac11a809e83b5dbe11df758cf?pvs=4](https://great-debt-2b0.notion.site/154b853ac11a809e83b5dbe11df758cf?pvs=4)
 
 **그저 묵묵히 성실하게 공부하고 있습니다.😊**
 
