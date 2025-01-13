@@ -1,9 +1,5 @@
 ## 안녕하세요!  👋
 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-
-**My notion link 👉🏼** [https://www.notion.so/154b853ac11a809e83b5dbe11df758cf?pvs=4](https://great-debt-2b0.notion.site/154b853ac11a809e83b5dbe11df758cf?pvs=4)
-
 **그저 묵묵히 성실하게 공부하고 있습니다.😊**
 
 **I am just studying quietly and sincerely.**
@@ -21,7 +17,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
