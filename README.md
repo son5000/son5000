@@ -1,15 +1,4 @@
 ## 안녕하세요!  👋
-
-**그저 묵묵히 성실하게 공부하고 있습니다.😊**
-
-**I am just studying quietly and sincerely.**
-
-**부족할지라도 예쁘게 봐주세요.**
-
-**Even if it's not enough, please look at it kindly.**
-
-
-
 **-  ✔ I’m currently learning ...**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
